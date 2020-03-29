@@ -20,5 +20,5 @@ ERROR: release version not supported
 
 4. ItelliJ->preferences->Build, Execution and deployment->Java Compiler->11
 
-Then it should works smoothly
+Then it should work smoothly
 
