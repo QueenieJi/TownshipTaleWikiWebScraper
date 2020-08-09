@@ -19,7 +19,7 @@ public class CSVConverter {
                 new NotNull(), // image path
         };
 
-        this.beanWriter = new CsvBeanWriter(new FileWriter("/Users/jiyuqi/Documents/GitHub/TownshipTaleWikiWebScraper/TownshipTaleWikiWebScraper/scraper/src/main/resources/result.csv"),
+        this.beanWriter = new CsvBeanWriter(new FileWriter("ABSOLUTEPATH/result.csv"),
                 CsvPreference.STANDARD_PREFERENCE);
     }
 
